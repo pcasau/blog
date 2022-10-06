@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Imperfect Logic"
-date:   2022-10-06 21:33:00 +0000
+date:   2021-10-06 21:33:00 +0000
 categories: math
 usemathjax: true
 ---
